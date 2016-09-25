@@ -1,2 +1,2 @@
 # instagram
-Instagram Clone
+Instagram Clone for iOS
